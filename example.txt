@@ -6,3 +6,6 @@ git add
 
 git commit -m 'this is the message new line added'
 
+git diff 
+
+ git push
