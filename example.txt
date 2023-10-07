@@ -1,0 +1,8 @@
+There is no text 
+
+this is the new line to see the diff
+
+git add 
+
+git commit -m 'this is the message new line added'
+
